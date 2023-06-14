@@ -1,0 +1,17 @@
+@import 'main';
+
+.vs-sidebar {
+    max-width: 280px;
+    }
+
+    .theme-semi-dark .main-menu-sidebar .vs-sidebar {
+    background-color: #00BCD4;
+}
+.main-menu-sidebar .header-sidebar .feather-icon svg {
+    color: #fff !important;
+}
+
+.vs-button.includeIcon {
+    float: left;
+    margin: 3px;
+}
